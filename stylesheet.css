@@ -1,0 +1,28 @@
+.pokedex{
+	border: solid;
+	border-color:black;
+	border-radius:10px;
+	width:150px;
+	height:250px;
+	background-color:red;
+}
+#mainPokedex{
+	display:table;
+	margin: 0 auto;
+}
+
+#header{
+	width:100%;
+	height:25px;
+	background-color: black;
+}
+
+#footer{
+	width:100%;
+	height:25px;
+	background-color: black;
+}
+
+#title_{
+	text-align:center;
+}
