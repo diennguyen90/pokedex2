@@ -1,4 +1,7 @@
 # pokedex
-manipulating pokeapi restful api
 
-Using angularjs to mess around with www.pokeapi.co
+An app that allows you to randomly flip through the entire pokemon database using PokeApi
+
+[!myPic]
+
+Using angularjs and firebase to mess around with www.pokeapi.co
