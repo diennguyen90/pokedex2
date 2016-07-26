@@ -2,6 +2,6 @@
 
 An app that allows you to randomly flip through the entire pokemon database using PokeApi
 
-[!myPic]
+![Mypic](https://raw.githubusercontent.com/diennguyen90/pokedex2/master/PokePic.png)
 
 Using angularjs and firebase to mess around with www.pokeapi.co
